@@ -1,1 +1,1 @@
-# Forcode
+# Newsletter blog project
